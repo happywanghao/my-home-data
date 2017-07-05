@@ -1,8 +1,4 @@
 [
-  {"title":"如果要学习web前端开发，需要学习什么？","desc":"遇到很多新手，都会问，如果要学习web前端开发，需要学习什么？难不难？多久能入门？怎么能快速建一个网站？工资能拿到多少？还有些让我推荐一些培训机构什么的要去学习。我建议是自学，实在是觉得自己没有这个能力，确实是需要一个老师的话，那你还是自己做主找个老师吧！","url":"如果要学习web前端开发，需要学习什么？"},
-  {"title":"使用CSS3制作文字、图片倒影","desc":"CSS3制作文字、图片倒影需要涉及到使用CSS3.0新属性之box-reflect。box-reflect属性目前仅在Chrome、Safari和Opera浏览器下支持，但这并不影响我们来学习这个属性的应用。","url":"使用CSS3制作文字、图片倒影"},
-  {"title":"IE6到底哪里不好？你还继续用IE6吗？","desc":"初接触网页设计，IE6是检查代码严谨性的一个很好的工具，虽然，曾经无数的抱怨、甚至憎恨。但是只要100个用户群里面有一位用户在使用IE6，你就不得不做好兼容。因为我们就是设计师。","url":"IE6到底哪里不好？你还继续用IE6吗？"},
-  {"title":"效果链接","desc":"css3标签切换卡样式，css3圆环倒计时效果,有创意的鼠标悬停效果集锦,网页常用的js实例汇总","url":"效果链接"},
   {"title":"Git和Github操作","img":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1498415008952&di=a4789a5a75c860aa111e181d68d9ab15&imgtype=0&src=http%3A%2F%2Fpic.58pic.com%2F58pic%2F16%2F42%2F96%2F56e58PICAu9_1024.jpg","url":"Git和Github操作"},
   {"title":"webpack基础","img":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1498415341418&di=b95be0c34b059b0251dc2f7d7f7ee277&imgtype=0&src=http%3A%2F%2Fstatic.open-open.com%2Flib%2FuploadImg%2F20151025%2F20151025162305_377.png","url":"webpack基础"},
   {"title":"ES6快速入门","img":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1498415382281&di=153d67f600832ae39e54b87fc7bcdc90&imgtype=0&src=http%3A%2F%2Fimg.mp.itc.cn%2Fupload%2F20170222%2F7c1c827b77064b80916b3d6810659893_th.jpeg","url":"ES6快速入门"},
